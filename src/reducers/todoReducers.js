@@ -26,6 +26,7 @@ const todoReducers = (state =initialValue, action)=>{
             ...state,
             list:[]
         }
+        
     default : return state;        
  }   
 }; 

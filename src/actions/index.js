@@ -20,9 +20,3 @@ export const removeToDo = ()=>{
         type : "REMOVE_TODO"
     }
 }
-
-export const editToDo = ()=>{
-    return{
-        type : "EDIT_TODO"
-    }
-}

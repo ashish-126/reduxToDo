@@ -14,7 +14,6 @@ const ToDo = () => {
       <div className="main-div">
             <div className="child-div">
                 <figure>
-                    {/* <img src={todo} alt="todologo" /> */}
                     <figcaption>Add Your List Here ✌</figcaption>
                 </figure>
 
